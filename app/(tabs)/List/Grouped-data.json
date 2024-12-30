@@ -1,0 +1,19 @@
+[
+    {
+      "type": "Electric",
+      "data": ["Pikachu", "Electabuzz", "Jolteon"]
+    },
+    {
+      "type": "Fire",
+      "data": ["Charizard", "Flareon", "Magmar"]
+    },
+    {
+      "type": "Water",
+      "data": ["Squirtle", "Vaporeon", "Gyarados"]
+    },
+    {
+      "type": "Grass",
+      "data": ["Bulbasaur", "Oddish", "Bellsprout"]
+    }
+  ]
+
